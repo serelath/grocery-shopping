@@ -1,4 +1,4 @@
-var myHeader = document.querySelector("h1");
+/* var myHeader = document.querySelector("h1");
 function date() {
     document.getElementById('theTime').innerHTML = Date();
 }
@@ -40,4 +40,4 @@ if (amount < bank_balance) {
     bank_balance = -(bank_balance - amount);
     
     console.log("You cannot afford this purchase. You are short on " + formatAmount(bank_balance) + ".");
-}
+} */
